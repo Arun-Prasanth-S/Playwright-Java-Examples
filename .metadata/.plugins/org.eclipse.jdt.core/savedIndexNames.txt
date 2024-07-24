@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+E:\New-Java-Playwright\.metadata\.plugins\org.eclipse.jdt.core
+47217474.index
+4089275479.index
+3453313424.index
+3813822479.index
+3458900941.index
+1865797976.index
+3480128547.index
+2939390393.index
