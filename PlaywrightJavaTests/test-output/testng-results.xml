@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-25T19:09:11 IST" name="Default suite" finished-at="2024-07-25T19:09:18 IST" duration-ms="6386">
+    <groups>
+    </groups>
+    <test started-at="2024-07-25T19:09:11 IST" name="Default test" finished-at="2024-07-25T19:09:18 IST" duration-ms="6386">
+      <class name="testNGExamples.TestNGExample">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testNGExamples.TestNGExample@2d52216b]" started-at="2024-07-25T19:09:11 IST" name="launchBrowser" finished-at="2024-07-25T19:09:16 IST" duration-ms="4595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createContextAndPage()[pri:0, instance:testNGExamples.TestNGExample@2d52216b]" started-at="2024-07-25T19:09:16 IST" name="createContextAndPage" finished-at="2024-07-25T19:09:16 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContextAndPage -->
+        <test-method signature="shouldSearchWiki()[pri:0, instance:testNGExamples.TestNGExample@2d52216b]" started-at="2024-07-25T19:09:16 IST" name="shouldSearchWiki" finished-at="2024-07-25T19:09:18 IST" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchWiki -->
+        <test-method is-config="true" signature="closeContext()[pri:0, instance:testNGExamples.TestNGExample@2d52216b]" started-at="2024-07-25T19:09:18 IST" name="closeContext" finished-at="2024-07-25T19:09:18 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeContext -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testNGExamples.TestNGExample@2d52216b]" started-at="2024-07-25T19:09:18 IST" name="closeBrowser" finished-at="2024-07-25T19:09:18 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testNGExamples.TestNGExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
